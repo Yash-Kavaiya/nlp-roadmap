@@ -14,6 +14,6 @@ This approach uses deep learning algorithms to learn from data. Deep learning al
 - Naive Bayes classifier is a statistical machine learning technique for classification.
 - Sentence embedding is a technique for representing sentences as vectors of numbers.
 - Word embedding is a technique for representing words as vectors of numbers.
-- Hugging Face is a library for natural language processing.
+- Hugging Face is a library for natural language processing. https://huggingface.co/sentence-transformers/paraphrase-xlm-r-multilingual-v1
 - Sentence transformer is a type of deep learning model that can be used for sentence embedding.
 - Cosine similarity is a measure of similarity between two vectors.
