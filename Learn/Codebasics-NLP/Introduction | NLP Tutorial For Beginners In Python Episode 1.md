@@ -59,5 +59,5 @@ These are just a few of the many great NLP libraries available for Python. The b
 
 # Salary of NLP Enginner
 
-100 K to 650K US $ per year - USA
-10 LPA to 1 Crore INR per year - India
+- 100 K to 650K US $ per year - USA
+- 10 LPA to 1 Crore INR per year - India
